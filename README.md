@@ -1,5 +1,5 @@
-# AllYouNeedIsLove
-Love is all you need.
+# All you need is love.
+(Love is all you need.)
 
 NOTE: For an authentic "magical mystery" experience, set variable "a" to 4!
 
